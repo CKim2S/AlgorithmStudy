@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CompactVersion {
+public class B10250_Compact {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
